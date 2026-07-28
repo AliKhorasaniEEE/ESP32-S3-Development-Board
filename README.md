@@ -64,6 +64,12 @@ PCB renders and screenshots
 
 <img width="1373" height="971" alt="Schematics" src="https://github.com/user-attachments/assets/1c8ae3eb-0d0b-46dd-a1a4-26ef1452381f" />
 
+
+### 3D View
+
+<img width="644" height="1068" alt="image" src="https://github.com/user-attachments/assets/13d3898f-5b9c-4a80-80bd-fd1943bc40fa" />
+
+
 ---
 
 ## Manufacturing
