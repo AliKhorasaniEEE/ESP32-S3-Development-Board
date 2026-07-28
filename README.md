@@ -79,7 +79,7 @@ Current Revision: A
 
 Prototype
 
-Hardware has not yet been manufactured or electrically validated.
+**Hardware has not yet been manufactured or electrically validated.**
 
 ---
 
