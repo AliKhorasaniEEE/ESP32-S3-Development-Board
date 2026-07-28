@@ -70,11 +70,6 @@ PCB renders and screenshots
 <img width="644" height="1068" alt="image" src="https://github.com/user-attachments/assets/13d3898f-5b9c-4a80-80bd-fd1943bc40fa" />
 
 
----
-
-## Manufacturing
-
-Gerber files, drill files, and manufacturing outputs are provided in the Manufacturing folder.
 
 ---
 
