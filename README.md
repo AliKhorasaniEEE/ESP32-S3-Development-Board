@@ -39,7 +39,7 @@ The board was designed as a learning project to gain practical experience in pro
 
 Designed using:
 
-- KiCad 9
+- KiCad 10.0.4
 
 ---
 
@@ -47,12 +47,6 @@ Designed using:
 
 Hardware/
 KiCad project files
-
-Documentation/
-Schematics and PDFs
-
-Manufacturing/
-Gerbers, drill files, BOM, pick-and-place files
 
 Images/
 PCB renders and screenshots
@@ -63,15 +57,12 @@ PCB renders and screenshots
 
 ### PCB
 
-(Add image here)
+<img width="616" height="873" alt="PCB" src="https://github.com/user-attachments/assets/771a7d42-6765-4e18-91d8-071b8237febf" />
+
 
 ### Schematic
 
-(Add image here)
-
-### 3D View
-
-(Add image here)
+<img width="1373" height="971" alt="Schematics" src="https://github.com/user-attachments/assets/1c8ae3eb-0d0b-46dd-a1a4-26ef1452381f" />
 
 ---
 
