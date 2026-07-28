@@ -92,6 +92,12 @@ Prototype
 - Revision B
 
 ---
+## References
+
+- Espressif ESP32-S3 Hardware Design Guidelines
+- Espressif ESP32-S3-WROOM-1 Datasheet
+- CP2102N Datasheet
+- KiCad Official Libraries
 
 ## License
 
